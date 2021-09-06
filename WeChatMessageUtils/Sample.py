@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
 #########################################################################
-# Author: jonyqin
-# Created Time: Thu 11 Sep 2014 03:55:41 PM CST
 # File Name: demo.py
 # Description: WXBizMsgCrypt 使用demo文件
 #########################################################################

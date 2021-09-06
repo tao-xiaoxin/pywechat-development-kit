@@ -14,7 +14,6 @@ token = '<token>'
 # 回调页面地址
 REDIRECT_URI = '<REDIRECT_URI>'
 
-
 # access_token 过期时间，默认2小时
 EXPIRES = (1.5 * 60 * 60)
 
